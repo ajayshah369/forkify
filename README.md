@@ -1,4 +1,4 @@
-<img src="dist/img/logo.png" height="50px">
+<img src="docs/img/logo.png" height="50px">
 
 #
 
@@ -10,4 +10,4 @@
 
 #
 
-<img src="dist/img/forkify.png">
+<img src="docs/img/forkify.png">
